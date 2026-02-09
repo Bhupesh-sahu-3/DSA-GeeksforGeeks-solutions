@@ -22,7 +22,7 @@ DSA-GeeksforGeeks-Solutions
 ├── Trees 
 ├── Graphs 
 ├── Dynamic_Programming 
-└── ... <br>
+└── ... 
 ```
 Each folder contains solutions categorized topic-wise.
 
