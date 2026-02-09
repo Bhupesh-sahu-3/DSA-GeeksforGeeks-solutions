@@ -13,8 +13,8 @@ The goal of this repository is to improve problem-solving skills, strengthen cor
 ---
 
 ## 📂 Repository Structure
-
-DSA-GeeksforGeeks-Solutions
+```
+DSA-GeeksforGeeks-Solutions <br>
 │
 ├── Linked_List <br>
 ├── Arrays <br>
@@ -23,7 +23,7 @@ DSA-GeeksforGeeks-Solutions
 ├── Graphs <br>
 ├── Dynamic_Programming <br>
 └── ... <br>
-
+```
 Each folder contains solutions categorized topic-wise.
 
 ---
