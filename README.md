@@ -16,12 +16,12 @@ The goal of this repository is to improve problem-solving skills, strengthen cor
 ```
 DSA-GeeksforGeeks-Solutions
 │
-├── Linked_List <br>
-├── Arrays <br>
-├── Strings <br>
-├── Trees <br>
-├── Graphs <br>
-├── Dynamic_Programming <br>
+├── Linked_List 
+├── Arrays 
+├── Strings 
+├── Trees 
+├── Graphs 
+├── Dynamic_Programming 
 └── ... <br>
 ```
 Each folder contains solutions categorized topic-wise.
