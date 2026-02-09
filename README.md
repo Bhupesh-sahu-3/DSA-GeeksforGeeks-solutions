@@ -14,7 +14,7 @@ The goal of this repository is to improve problem-solving skills, strengthen cor
 
 ## 📂 Repository Structure
 ```
-DSA-GeeksforGeeks-Solutions <br>
+DSA-GeeksforGeeks-Solutions
 │
 ├── Linked_List <br>
 ├── Arrays <br>
