@@ -1,7 +1,7 @@
 //Method1
 //using stack
 //time:o(n + 2*log(n))
-//space:
+//space:o(number of nodes in linked list)
 class Solution {
   public:
     int lengthOfLoop(Node *head) {
@@ -22,6 +22,39 @@ class Solution {
         
         return 0;
         
+        
+    }
+};
+
+
+//Method2
+//using tortoise and hare algo
+//time: o(n +length of loop) 
+//space: o(1)
+class Solution {
+  public:
+    int lengthOfLoop(Node *head) {
+        if(!head || !head->next) return NULL;
+        Node* slow = head;
+        Node* fast = head;
+        int count=1;
+        while(fast!=NULL && fast->next!=NULL) o(n)
+        {
+            slow=slow->next;
+            fast = fast->next->next;
+            if(slow==fast)
+            {
+                fast=fast->next;
+                while(slow!=fast)   //o(length of loop)
+                {
+                    count++;
+                    fast=fast->next;
+                }
+                return count;
+            }
+    
+        }
+        return 0;
         
     }
 };
